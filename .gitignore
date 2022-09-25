@@ -26,7 +26,7 @@ hs_err_pid*
 =======
 *.iml
 
-# Project gen files
+# Project gen filess
 .idea
 .allure/
 .gradle/
